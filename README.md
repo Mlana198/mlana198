@@ -1,4 +1,4 @@
-![Irfan Afandi](img/Header-GitHub.png)
+![Irfan Afandi](img/github-header-banner.png)
 
 ## Hi there I'm Irfan Afandi 👋
 
