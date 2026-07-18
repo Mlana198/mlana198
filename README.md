@@ -50,27 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<p data-importer="text" align="left">Play games with me</p>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Mlana198/Mlana198/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 ##### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-##### 🔝 Top Contributed Repo
+###
 
-![](https://github-contributor-stats.vercel.app/api?username=Mlana198&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://komarev.com/ghpvc/?username=Mlana198&icon=0&color=0)](https://visitcount.itsvg.in)
+<p data-importer="text" align="left">Play games with me</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Mlana198/Mlana198/snake-output/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
