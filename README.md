@@ -1,4 +1,6 @@
-## Hi there 👋
+![Irfan Afandi](img/Header-GitHub.png)
+
+## Hi there I'm Irfan Afandi 👋
 
 <!--
 **Mlana198/mlana198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Laravel** & **Filament** Framework
